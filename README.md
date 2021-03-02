@@ -3287,6 +3287,8 @@ require('@unicode/unicode-12.0.0/Sequence_Property/Emoji_Modifier_Sequence/index
 
 require('@unicode/unicode-12.0.0/Sequence_Property/Emoji_Tag_Sequence/index.js'); // array containing a string for each sequence
 
+require('@unicode/unicode-12.0.0/Sequence_Property/Emoji_Test/index.js'); // array containing a string for each sequence
+
 require('@unicode/unicode-12.0.0/Sequence_Property/Emoji_ZWJ_Sequence/index.js'); // array containing a string for each sequence
 ```
 
